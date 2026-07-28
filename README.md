@@ -42,9 +42,10 @@ email-spam-classifier/
 ├── notebooks/
 │   └── Email Spam Classifier.ipynb    # Main analysis notebook
 ├── data/
-│   └── spam.csv                      # Training and test data
+│   └── spam.csv                       # Training and test data
 ├── requirements.txt                   # Python dependencies
 ├── README.md                          # This file
+├── LICENSE                            # License
 └── .gitignore
 ```
 
